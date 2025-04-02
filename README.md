@@ -11,6 +11,7 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+* .envにOPENAI_API_KEY を設定する
 
 ---
 
